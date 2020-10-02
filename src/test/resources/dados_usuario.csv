@@ -1,5 +1,5 @@
-nome,tipo_pessoa
-guinter,pessoa fisica
-maria,pessoa juridica
-pedro,pessoa fisica
-juliana,pessoa juridica
+nome,tipo_pessoa,idade,nome_cenario
+guinter,pessoa fisica,37,cenario_positivo_pessoa
+maria,pessoa juridica,40,cenario_negativo_pessoa
+pedro,pessoa fisica,22,cenario_com_idade_22
+juliana,pessoa juridica,30,cenario_com_idade_30
